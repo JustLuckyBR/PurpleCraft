@@ -1,10 +1,8 @@
-# PurpleCraft
-Purple Minecraft Website Template Made Using Bootstrap Making It Fully Responsive On All Platform!
-This is made for free for everyone! However redistribution of this product claiming it's your work is highly prohibited!
-Replace the dirt blocks with your server logo as they were used as placeholders.
-The title on the website is a little Easter Egg for an upcoming server developed by me. :D
-This has been made with the use of Bootstrap.
+#Sobre o Trinity
 
-Official Download Page: https://www.spigotmc.org/resources/purplecraft-fully-responsive.51247/
+o Trinity é um bot que apenas te trás coisas inovadoras, diversão, nossa! é muita coisa!
 
-Live Preview: https://spimy.ga/PurpleCraft/
+Vá no WebSite dele em https://trinity.tk/
+
+  Ele foi feito em JavaScript e antes de finalizar,
+      Hello World!
