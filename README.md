@@ -1,4 +1,4 @@
-#Sobre o Trinity
+Trinity Bot
 
 o Trinity é um bot que apenas te trás coisas inovadoras, diversão, nossa! é muita coisa!
 
